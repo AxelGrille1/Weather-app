@@ -1,0 +1,2 @@
+export let WEATHER_API_KEY: string;
+WEATHER_API_KEY = '5ffcb26687044e5f8ba82206240811';
